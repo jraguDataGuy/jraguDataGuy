@@ -3,11 +3,11 @@
 - B.S. in Actuarial Science from Vaplaraiso University
 - MBA in Finance from St. Xavier University
 - Certificate in Risk Analysis from Clemson University
+- In Progress: Rice University Data Analytics and Visualization Bootcamp
 ## 👀 I’m interested in ...
 - Baseball statistics
 - Transitioning to analytics
-- Amateur Cellist
-- Current Underwriter
+- Current Job: Medical Malpractice Underwriter
 ## 🌱 I’m currently learning ...
 - As of 11.19.2021: Python.
 - Excel enthusiast
@@ -17,7 +17,11 @@
 - Sports Data projects, preferrably baseball
 ## 📫 How to reach me ...
 - Twitter: @CandidCubs
-- email: candidcubs@gmail.com
+- email: jeff.ragauskis@gmail.com
+## ⚾️🎮 Hobbies
+- Diehard Chicago Cubs fan
+- Diehard Valpo Basketball fan
+- Amateur Cellist
 
 <!---
 jraguDataGuy/jraguDataGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
