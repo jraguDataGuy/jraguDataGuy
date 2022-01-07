@@ -9,9 +9,7 @@
 - Transitioning to analytics
 - Current Job: Medical Malpractice Underwriter
 ## 🌱 I’m currently learning ...
-- As of 11.19.2021: Python.
-- Excel enthusiast
-- VBA Amateur
+- As of 1.7.2022: SQL
 ## 💞️ I’m looking to collaborate on ...
 - Data projects to hone my skills
 - Sports Data projects, preferrably baseball
