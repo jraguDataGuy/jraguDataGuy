@@ -9,10 +9,16 @@
 - Transitioning to analytics
 - Current Job: Medical Malpractice Underwriter
 ## 🌱 I’m currently learning ...
-- As of 1.7.2022: SQL
+- As of 1.23.2022 - JavaScript
 ## 💞️ I’m looking to collaborate on ...
 - Data projects to hone my skills
 - Sports Data projects, preferrably baseball
+## Skills Learned
+- Excel/VBA
+- Python
+- Pandas
+- ETL processes
+- JavaScript
 ## 📫 How to reach me ...
 - Twitter: @CandidCubs
 - email: jeff.ragauskis@gmail.com
