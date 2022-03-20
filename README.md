@@ -9,7 +9,7 @@
 - Transitioning to analytics
 - Current Job: Medical Malpractice Underwriter
 ## 🌱 I’m currently learning ...
-- As of 3.2.2022 - Machine Learning
+- As of 3.20.2022 - Machine Learning and Neural Nets!
 ## 💞️ I’m looking to collaborate on ...
 - Data projects to hone my skills
 - Sports Data projects, preferrably baseball
@@ -19,6 +19,7 @@
 - Pandas
 - ETL processes
 - JavaScript
+- HTML
 - SQL
 ## 📫 How to reach me ...
 - Twitter: @CandidCubs
