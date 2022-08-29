@@ -3,13 +3,13 @@
 - B.S. in Actuarial Science from Vaplaraiso University
 - MBA in Finance from St. Xavier University
 - Certificate in Risk Analysis from Clemson University
-- In Progress: Rice University Data Analytics and Visualization Bootcamp
+- Rice University Data Analytics and Visualization Bootcamp
 ## 👀 I’m interested in ...
 - Baseball statistics
 - Transitioning to analytics
-- Current Job: Medical Malpractice Underwriter
+- Current Job: Senior Data Analyst, Berkshire Hathaway Specialty Insurance
 ## 🌱 I’m currently learning ...
-- As of 3.20.2022 - Machine Learning and Neural Nets!
+- As of 8.29.2022 - Learning to Code with Baseball Journey begins!
 ## 💞️ I’m looking to collaborate on ...
 - Data projects to hone my skills
 - Sports Data projects, preferrably baseball
@@ -28,7 +28,8 @@
 - Diehard Chicago Cubs fan
 - Diehard Valpo Basketball fan
 - Amateur Cellist
-
+- Marvel Cinematic Universe Enthusiast
+- Star Wars Nerd
 <!---
 jraguDataGuy/jraguDataGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
