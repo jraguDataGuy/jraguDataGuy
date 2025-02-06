@@ -7,9 +7,9 @@
 ## 👀 I’m interested in ...
 - Baseball statistics
 - Transitioning to analytics
-- Current Job: Senior Data Analyst, Berkshire Hathaway Specialty Insurance
+- Current Job: Senior Data Analyst, Grubhub
 ## 🌱 I’m currently learning ...
-- As of 8.29.2022 - Learning to Code with Baseball Journey begins!
+- As of 2.06.2025 - Learning to Code with Baseball Journey begins!
 ## 💞️ I’m looking to collaborate on ...
 - Data projects to hone my skills
 - Sports Data projects, preferrably baseball
